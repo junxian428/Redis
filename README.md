@@ -10,4 +10,6 @@ sudo apt-get install redis-server
 
 sudo cp /etc/redis/redis.conf /etc/redis/redis.conf.default
 
+redis-cli
+
 https://youtu.be/Hbt56gFj998
